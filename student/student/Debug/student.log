@@ -1,0 +1,7 @@
+﻿  head.cpp
+  student.cpp
+  正在生成代码...
+student.obj : error LNK2005: "class operat operater" (?operater@@3Voperat@@A) 已经在 head.obj 中定义
+student.obj : error LNK2005: "class stud * students" (?students@@3PAVstud@@A) 已经在 head.obj 中定义
+student.obj : error LNK2005: "class stud student" (?student@@3Vstud@@A) 已经在 head.obj 中定义
+D:\STUDY\C++\C++code\student\Debug\student.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
