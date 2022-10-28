@@ -14,7 +14,7 @@ string course::show_course_number() {
 double course::show_course_grade() {
 	return course_grade;
 }
-void course::setCourse_n(int N) {
+ void course::setCourse_n(int N) {
 	course_n = N;
 }
 int course::showCourse_n() {
